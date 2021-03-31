@@ -15,6 +15,11 @@ Based on a given table of stocks and their tickers (stocks_map.csv), display a w
 - python -m app
 
 <br>
-3. The app takes about 15 minutes to run if update of all stock information is required (to collate information from Yahoo Finance and Morningstar), before the web page is up and running.
+3. The app takes about 15 minutes to run if update of all stock information is required (to collate information from Yahoo Finance, SGInvestors and Morningstar), before the web page is up and running.<br>
+<br>
+4. For a demo video on what the page should look like, please go to http://bit.ly/demo_webApp_stocks.
 
+<hr>
+<h3> Notes </h3>
+Last maintained around Oct 2020. Do let me know if any of the info pulled is missing or outdated.
 </html>
