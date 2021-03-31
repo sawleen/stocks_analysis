@@ -3,7 +3,7 @@
 <hr>
 
 <h3> Description </h3>
-Based on a given table of stocks and their tickers (stocks_map.csv), display a web app showing information on these stocks. Viewer can display by sector, or order stocks based on a variety of metrics.
+Based on a given table of stocks and their tickers (stocks_map.csv), display a web app showing information on these stocks. Viewer can display stocks by sector, or analyse stocks based on a variety of metrics.
 <hr>
 
 <h3> How to use </h3>
