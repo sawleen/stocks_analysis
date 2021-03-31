@@ -7,7 +7,7 @@ Based on a given table of stocks and their tickers (stocks_map.csv), display a w
 <hr>
 
 <h4> How to use </h4>
-1. User can update "stocks_map.csv" in the data folder to add in the stock names of interest, as well as the stock symbols. Sector can be left blank as this will be updated automatically.
+1. User can update "stocks_map.csv" in the data folder to add in the stock names of interest, as well as the stock symbols. Sector can be left blank as this will be updated automatically. <br>
 2. User can run directly from the terminal, for example, by running the following lines:
 
 - cd Documents/Leen/Python/stock_analysis
